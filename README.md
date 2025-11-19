@@ -1,0 +1,1 @@
+# SYNTAX_CHECKER_C
